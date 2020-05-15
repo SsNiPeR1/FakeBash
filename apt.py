@@ -534,4 +534,3 @@ Usage: curl [options...] <url>
  -V, --version       Show version number and quit
  -w, --write-out <format> Use output FORMAT after completion
      --xattr         Store metadata in extended file attributes''')
-print(command, ": not found")
